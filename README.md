@@ -2,7 +2,7 @@
 
 An utility to backup and restore [docker volumes](https://docs.docker.com/engine/reference/commandline/volume/). For more info, read my article on [Medium](https://medium.com/@jareklipski/backup-restore-docker-named-volumes-350397b8e362)
 
-**Note**: ported, original image: https://hub.docker.com/p/loomchild/volume-backup
+**ported**: original image: https://hub.docker.com/p/loomchild/volume-backup
 
 **Note**: Make sure no container is using the volume before backup or restore, otherwise your data might be damaged. See [Miscellaneous](#miscellaneous) for instructions.
 
